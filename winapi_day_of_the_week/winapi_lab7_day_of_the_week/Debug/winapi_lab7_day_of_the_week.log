@@ -1,0 +1,4 @@
+﻿  winapi_lab7_day_of_the_week.cpp
+d:\академия шаг\winapi\winapi_code\winapi_lab7_day_of_the_week\winapi_lab7_day_of_the_week\winapi_lab7_day_of_the_week.cpp(41): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note:  см. объявление "localtime"
+  winapi_lab7_day_of_the_week.vcxproj -> D:\Академия ШАГ\WinAPI\WinAPI_code\winapi_lab7_day_of_the_week\Debug\winapi_lab7_day_of_the_week.exe
