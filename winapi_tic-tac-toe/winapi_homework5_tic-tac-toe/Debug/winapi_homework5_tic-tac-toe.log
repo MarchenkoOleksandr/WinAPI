@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (winapi_homework5_tic-tac-toe.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  winapi_homework5_tic-tac-toe.cpp
+d:\академия шаг\winapi\winapi_code\winapi_homework5_tic-tac-toe\winapi_homework5_tic-tac-toe\winapi_homework5_tic-tac-toe.cpp(131): warning C4715: PlayerGame: значение возвращается не при всех путях выполнения
+  winapi_homework5_tic-tac-toe.vcxproj -> D:\Академия ШАГ\WinAPI\WinAPI_code\winapi_homework5_tic-tac-toe\Debug\winapi_tic-tac-toe.exe
